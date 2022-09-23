@@ -1,5 +1,5 @@
 # ML-ADS
-Machine Learning based Anomaly Detection Algorithm for ICS dataset
+Machine Learning based Anomaly Detection Algorithm for ICS datasets
 
 In this project, we will be applying Multinomial Logistic Regression, Naïve Bayes Classifier and 
 Neural Network algorithms for solving a multi-class classification problem, along with Principal 
