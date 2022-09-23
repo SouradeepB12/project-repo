@@ -1,5 +1,5 @@
-# project
-GitHub repository for all personal projects
+# ML-ADS
+Machine Learning based Anomaly Detection Algorithm for ICS dataset
 
 In this project, we will be applying Multinomial Logistic Regression, Naïve Bayes Classifier and 
 Neural Network algorithms for solving a multi-class classification problem, along with Principal 
